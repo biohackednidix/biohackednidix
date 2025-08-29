@@ -5,7 +5,7 @@
 - 👀 **Interests:** I'm fascinated by the intersection of **biology and technology**, especially in health tech and genomics
 - 💞️ **Open to Collaborate:** Looking for exciting projects in **Bioinformatics** & **Computational Biology**
 - 😄 **Pronouns:** She/Her | Also go by **Nidix**
-- ⚡ **Fun Fact:** I'm building a website, [nmbiotech](https://nmbiotech.digitarthamarketing.in), to share curated resources in biotechnology for students like me
+- ⚡ **Fun Fact:** I'm building a website, [nmbiotech](https://nmbiotech.digitarthamarketing.in), to share curated resources in Bioinformatics & Biotechnology for students like me
 
 ### Connect with Me
 - 📬 **Email:** [bioinformatics.nidhi918@gmail.com](mailto:bioinformatics.nidhi918@gmail.com)
